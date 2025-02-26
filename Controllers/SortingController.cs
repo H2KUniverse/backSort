@@ -119,5 +119,10 @@ namespace SortingApi.Controllers
                 return Age.CompareTo(other.Age);
             }
         }
+
+        public int CompareTo(str1, str2)
+        {
+            
+        }
     }
 }

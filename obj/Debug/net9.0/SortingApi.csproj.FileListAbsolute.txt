@@ -31,3 +31,4 @@ C:\Users\pr1nc\Desktop\Fun\SortingApi\obj\Debug\net9.0\refint\SortingApi.dll
 C:\Users\pr1nc\Desktop\Fun\SortingApi\obj\Debug\net9.0\SortingApi.pdb
 C:\Users\pr1nc\Desktop\Fun\SortingApi\obj\Debug\net9.0\SortingApi.genruntimeconfig.cache
 C:\Users\pr1nc\Desktop\Fun\SortingApi\obj\Debug\net9.0\ref\SortingApi.dll
+C:\Users\pr1nc\Desktop\Fun\SortingApi\obj\Debug\net9.0\SortingApi.sourcelink.json
